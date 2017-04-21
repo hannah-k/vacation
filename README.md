@@ -4,8 +4,9 @@
 
 ## Description
 
-_This website is meant to demonstrate our first use of Bootstrap styling to a web page. This page includes a container to pad all content, a Jumbotron title, 
-## Setup/Installation Requirements. Helper classes, blockquotes and wells are also utilized._ 
+_This website is meant to demonstrate our first use of Bootstrap styling to a web page. This page includes a container to pad all content, a Jumbotron title, Helper classes, blockquotes and wells are also utilized._
+
+## Setup/Installation Requirements.
 
 * Clone the application to your Desktop.
 * Open html file in your preferred browser.
